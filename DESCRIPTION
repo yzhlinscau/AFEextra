@@ -1,0 +1,13 @@
+Package: AFEextra
+Type: Package
+Title: Extra Functions for AFEchidna
+Version: 1.75
+Author: Yuanzhen Lin
+Maintainer: Yuanzhen Lin <yzhlinscau@163.com>
+Description: This package adds some R functions for AFEchidna v-1.75.
+Depends: R (>= 4.0.0)
+Suggests: agricolae,amap,desplot,dplyr, DT, GeneticsPed, ggplot2, knitr,msm,  nadiv,pedigree,readr,reshape, stringr,tidyr,utils, stats,MASS
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
