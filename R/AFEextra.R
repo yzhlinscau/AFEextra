@@ -1076,7 +1076,7 @@ esRT01 <- function(path,trace=FALSE,mulT=FALSE,met=FALSE,
     
     #if(!any(grepl('_e.R$',flst))&cycle==FALSE)
       if(cycle==FALSE)  
-      tt<-AFEchidna::esr.res2(esr, mulT=mulT, met=met)
+      tt<-esr.res2(esr, mulT=mulT, met=met)
       
     tt$esr<-esr
   }
