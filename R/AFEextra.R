@@ -2129,4 +2129,3 @@ AGH.inv <- function(option=1,ugped,gped,gmarker,asrV=3,tidn=NULL,gidn=NULL){
   
   return(list(Ainv=Ainv,Ginv=Ginv,Hinv=Hinv))
 }
-
